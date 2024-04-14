@@ -1,0 +1,12 @@
+/media_local
+/portfolio/settings.py
+
+/blog/templates/blog/frontpage.html
+/blog/templates/blog/innerbase.html
+/blog/templates/blog/portfoliosite.html
+/blog/templates/blog/traveljapansite.html
+
+/__pycache__
+
+/staticfiles
+
