@@ -1,6 +1,7 @@
 *.css linguist-detectable=false
-*.js linguist-detectable=false
+# *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.less linguist-detectable=false
 *.scss linguist-detectable=false
+*.rb linguist-detectable=false
 
